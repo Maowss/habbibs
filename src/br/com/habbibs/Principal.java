@@ -11,4 +11,7 @@ package br.com.habbibs;
  */
 public class Principal {
     
+    public static void main(String[] args){
+        
+    }
 }
